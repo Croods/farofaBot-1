@@ -64,9 +64,9 @@
     }
 
         localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Farofinha Bot",
+        botName: "Bot da Zuera",
         language: "portuguese",
-        chatLink: "https://rawgit.com/" + fork + "/basicBot/master/lang/pt.json",
+        chatLink: "https://rawgit.com/" + fork + "/ZueraBOT/master/lang/pt.json",
         startupCap: 1,
         startupVolume: 0,
         startupEmoji: false,
@@ -107,9 +107,9 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: "https://www.facebook.com/groups/farofadasdivaspop/",
+        fbLink: "http://goo.gl/csbFQS",
         youtubeLink: null,
-        website: "https://www.facebook.com/farofadasdivaspop",
+        website: "http://goo.gl/x6Zmnx",
         intervalMessages: [],
         messageInterval: 5,
         songstats: false,
